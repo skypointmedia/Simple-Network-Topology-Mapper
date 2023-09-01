@@ -1,4 +1,4 @@
-# Network Topology Mapper
+# Simple Network Topology Mapper
 
 This is a Python-based utility for network topology mapping. It uses Nmap for scanning and is designed to identify hosts in a given IP range or a single IP address. This utility is useful for network administrators and cybersecurity professionals for preliminary network reconnaissance.
 

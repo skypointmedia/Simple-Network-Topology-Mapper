@@ -13,20 +13,20 @@ This is a Python-based utility for network topology mapping. It uses Nmap for sc
 
 You need to have Python 3.x installed and a couple of Python packages which you can install using `pip`:
 
-    \```bash
-    pip install python-nmap
-    pip install halo
-    pip install netifaces
-    \```
+<code>
+pip install python-nmap
+pip install halo
+pip install netifaces
+</code>
 
 ## Usage
 
 1. Clone this repository or download the script.
 2. Run the script in your terminal:
 
-    \```bash
-    python network-topology-mapper.py
-    \```
+<code>
+python3 network-topology-mapper.py
+</code>
 
 3. Follow the on-screen prompts to choose between a range of IPs or a single IP.
 4. Wait for the scan to complete. The identified hosts will be printed on the terminal.

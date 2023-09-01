@@ -23,13 +23,12 @@ You need to have Python 3.x installed and a couple of Python packages which you 
 
 1. Clone this repository or download the script.
 2. Run the script in your terminal:
-
-    
-    python3 network-topology-mapper.py
-    
-
 3. Follow the on-screen prompts to choose between a range of IPs or a single IP.
 4. Wait for the scan to complete. The identified hosts will be printed on the terminal.
+
+
+    python3 network-topology-mapper.py
+
 
 ## Important Note
 

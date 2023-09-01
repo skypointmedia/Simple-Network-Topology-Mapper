@@ -14,9 +14,9 @@ This is a Python-based utility for network topology mapping. It uses Nmap for sc
 You need to have Python 3.x installed and a couple of Python packages which you can install using `pip`:
 
 <code>
-pip install python-nmap
-pip install halo
-pip install netifaces
+    pip install python-nmap
+    pip install halo
+    pip install netifaces
 </code>
 
 ## Usage
@@ -25,7 +25,7 @@ pip install netifaces
 2. Run the script in your terminal:
 
 <code>
-python3 network-topology-mapper.py
+    python3 network-topology-mapper.py
 </code>
 
 3. Follow the on-screen prompts to choose between a range of IPs or a single IP.
